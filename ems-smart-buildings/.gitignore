@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Solvers / logs
+*.log
+*.lp
+*.sol
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+
+# Large docs (kept out of repo)
+*.pdf
+*.docx

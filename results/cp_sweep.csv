@@ -1,0 +1,13 @@
+case,CP_kW,status,solver,seconds,total_eur,contract_eur,energy_eur,peak_import_kW
+II,13.8,infeasible,cbc,2.3,,,,
+II,17.25,infeasible,cbc,2.2,,,,
+II,20.7,optimal,cbc,6.7,193.44,7.24,186.2,20.7
+II,27.6,optimal,cbc,6.7,169.27,9.66,159.61,27.6
+II,34.5,optimal,cbc,7.1,170.85,12.08,158.77,34.5
+II,41.4,optimal,cbc,6.4,173.2,14.49,158.71,41.4
+III,13.8,infeasible,cbc,3.0,,,,
+III,17.25,optimal,cbc,10.4,173.44,6.04,167.4,17.25
+III,20.7,optimal,cbc,10.2,159.36,7.24,152.12,20.7
+III,27.6,optimal,cbc,9.7,154.74,9.66,145.08,27.6
+III,34.5,optimal,cbc,9.1,157.16,12.08,145.08,34.5
+III,41.4,optimal,cbc,8.6,159.57,14.49,145.08,41.4

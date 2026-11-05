@@ -1,0 +1,4 @@
+case,CP_kW,total_eur,peak_import_kW,status,saving_vs_case_I_pct
+I,158.7,314.27,70.43,no optimisation,0.0
+II,27.6,169.27,27.6,optimal,46.1
+III,27.6,154.74,27.6,optimal,50.8

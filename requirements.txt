@@ -1,0 +1,6 @@
+numpy>=1.24
+pandas>=2.0
+pyomo>=6.7
+matplotlib>=3.7
+highspy>=1.7   # optional open-source MILP solver; CBC or GLPK can be used instead
+pytest>=7      # tests only
